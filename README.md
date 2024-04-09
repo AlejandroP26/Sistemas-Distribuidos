@@ -23,7 +23,7 @@ Este proyecto tiene como fin llevar el control de las gestion de clientes, que s
 ## Base de Datos<a name="id2"></a>
 ### Diagrama MR<a name="id3"></a>
 
-![Modelo relacional de la base de datos](https://drive.google.com/file/d/1KQnLY4WtdY5k8YyZV6Y3-Zo7XiRuMWdA/view?usp=drive_open)
+![Modelo relacional de la base de datos](/Documents/MR.png)
 
 ## Arquitectura<a name="id4"></a>
 ## Correr aplicación<a name="id5"></a>
