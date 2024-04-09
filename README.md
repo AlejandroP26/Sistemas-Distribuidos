@@ -1,0 +1,18 @@
+# ScotiaApp - ScotiaBank #
+______________________________________________________________________________________________________________________________________________________________________________________________
+Este apartado proporciona informacion general  del proyecto ScotiaApp para Scotia Tech Call. Este incluye enlaces relevantes sobre la docuemntación del proyecto tales como documentación,
+repositorios, estructura del proyecto, herramientas de gestion de proyectos, entre otros.
+
+## Repositorios
+______________________________________________________________________________________________________________________________________________________________________________________________
+* 
+*
+## Herramientas de gestión de proyectos
+______________________________________________________________________________________________________________________________________________________________________________________________
+##### Trello: Enlace tablero de Trello 
+
+## Documentación
+______________________________________________________________________________________________________________________________________________________________________________________________
+Documentación general: Enlace a los docuemntos del proyecto alojados en Google Drive
+
+Si necesitas un acceso adicional o inquietud, no dudes en comunicarte con el equipo de desarrollo responsable de la realización del mismo
