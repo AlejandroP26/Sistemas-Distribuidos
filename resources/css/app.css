@@ -23,6 +23,7 @@
     display: block;
 }
 
+/* Estilos para el slidebar */
 .navbar-sidebar {
     width: 64px; /* Ancho del slidebar */
     background-color: #4b5563; /* Color de fondo del slidebar */
