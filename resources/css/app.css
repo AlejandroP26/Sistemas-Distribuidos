@@ -1,0 +1,41 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+[x-cloak] {
+    display: none;
+}
+
+.sidebar-open {
+    width: 64px; /* Ancho del slidebar */
+}
+
+.sidebar-closed {
+    width: 0; /* Ancho cero para ocultar el slidebar */
+}
+
+/* Estilos para el slidebar */
+.sm\:hidden {
+    display: none;
+}
+
+.sm\:block {
+    display: block;
+}
+
+.navbar-sidebar {
+    width: 64px; /* Ancho del slidebar */
+    background-color: #4b5563; /* Color de fondo del slidebar */
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 20; /* Asegúrate de que el slidebar esté sobre el contenido principal */
+    transition: transform 0.3s ease-in-out; /* Animación de desplazamiento */
+    transform: translateX(-100%);
+}
+
+/* Muestra el slidebar cuando está abierto */
+.navbar-sidebar.open {
+    transform: translateX(0);
+}
