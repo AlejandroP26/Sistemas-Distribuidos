@@ -4,15 +4,15 @@ Este apartado proporciona informacion general  del proyecto ScotiaApp para Scoti
 repositorios, estructura del proyecto, herramientas de gestion de proyectos, entre otros.
 
 ## Repositorios
-______________________________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________________________
 * 
 *
 ## Herramientas de gestión de proyectos
 ______________________________________________________________________________________________________________________________________________________________________________________________
-##### Trello: Enlace tablero de Trello 
+##### Trello: [Enlace tablero de Trello] (https://trello.com/b/JtTxnsyf/sistemas-distribuidos)
 
 ## Documentación
 ______________________________________________________________________________________________________________________________________________________________________________________________
-Documentación general: Enlace a los docuemntos del proyecto alojados en Google Drive
+Documentación general: Enlace a los docuemntos del proyecto alojados en Google Drive (https://drive.google.com/drive/folders/1NZayUlXREzJAOI4aCIxdXzWgO8IVUCfK)
 
 Si necesitas un acceso adicional o inquietud, no dudes en comunicarte con el equipo de desarrollo responsable de la realización del mismo
